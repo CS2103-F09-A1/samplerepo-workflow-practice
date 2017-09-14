@@ -1,4 +1,6 @@
 # TEAM ID
-This is a team repo for members of the team {Team ID}
+This is a team repo for members of the team F09-A1
 
 # Team Members
+* [Liu Hang](members/liuHang.md)
+
